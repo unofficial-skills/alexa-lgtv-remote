@@ -33,7 +33,7 @@
     "i18next": "^11.2.3",
     "i18next-sync-fs-backend": "^1.1.0",
     "lgtv2": "^1.4.1",
-    "promise": "^8.0.1",
+    "promise": "^8.1.0",
     "wake_on_lan": "^1.0.0"
   },
   "devDependencies": {
