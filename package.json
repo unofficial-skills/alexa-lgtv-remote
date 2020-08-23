@@ -37,7 +37,7 @@
     "wake_on_lan": "^1.0.0"
   },
   "devDependencies": {
-    "babel-core": "^6.26.0",
+    "babel-core": "^6.26.3",
     "babel-eslint": "^8.2.3",
     "babel-preset-env": "^1.6.1",
     "babel-preset-flow": "^6.23.0",
