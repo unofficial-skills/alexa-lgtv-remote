@@ -46,7 +46,7 @@
     "eslint-plugin-flowtype": "^2.46.3",
     "flow-bin": "^0.72.0",
     "flow-typed": "^2.0.0",
-    "gulp": "^4.0.0",
+    "gulp": "^4.0.2",
     "gulp-babel": "^7.0.0",
     "gulp-eslint": "^4.0.1",
     "merge-stream": "^1.0.1",
